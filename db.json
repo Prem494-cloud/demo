@@ -1,9 +1,15 @@
 {   
         "myTestServer":[
 {
-"id":1,
+"id": 1,
 "Name": "HCL",
-"Location": "India"
+"Location": "India",
+ "Phone": 87654329,
+  "Skill": [
+          API
+          manual
+  ]
+
 }
 ]
 }
