@@ -15,7 +15,7 @@
 "id": 2,
 "Name": "myntra",
 "Location": "USA",
- "Phone": 00187654329,
+ "Phone": 87654329,
   "Skill": [
           "Managment",
           "ERP"
@@ -25,8 +25,8 @@
                  {
 "id": 3,
 "Name": "Infosys",
-"Location": "JAPAN"
- "Phone": 001876529221212,
+"Location": "JAPAN",
+"Phone": 87654329,
   "Skill": [
           "XYZ",
           "ERP"
