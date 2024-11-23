@@ -11,5 +11,27 @@
   ]
 
 }
+                {
+"id": 2,
+"Name": "myntra",
+"Location": "USA",
+ "Phone": 00187654329,
+  "Skill": [
+          "Managment",
+          "ERP"
+  ]
+
+}
+                 {
+"id": 3,
+"Name": "Infosys",
+"Location": "JAPAN"
+ "Phone": 001876529221212,
+  "Skill": [
+          "XYZ",
+          "ERP"
+  ]
+
+}
 ]
 }
